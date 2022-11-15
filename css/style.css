@@ -1,0 +1,28 @@
+.title{
+    font-weight: bold;
+    font-family: monospace;
+    font-size: 20px;
+}
+
+*{
+    background-color: bisque;
+}
+
+.content{
+    padding: 100px 100px 100px 100px;
+    margin: 100px;
+    border: 2px solid;
+}
+
+#strong-likes{
+    font-style: italic;
+    color: saddlebrown;
+}
+
+.ordered-list{
+    font-size: smaller;
+}
+
+.unordered-list{
+    font-size: smaller;
+}
